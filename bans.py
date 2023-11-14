@@ -23,4 +23,4 @@ def create_dummy_bans(n_fields,csv_name):
   x.to_csv(f'{csv_name}.csv',index=True)
 
 # Running Code
-create_dummy_bans(1000,'bans')
+# create_dummy_bans(1000,'bans')
